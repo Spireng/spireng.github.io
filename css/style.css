@@ -195,10 +195,16 @@ p {
 }
 
 .social__link2 {
+    background-image: url(../img/rabota.svg);
+    background-size: 32px 32px;
+}
+
+.social__link3 {
     background-image: url(../img/instagram.svg);
     background-size: 32px 32px;
 }
-.social__link3 {
+
+.social__link4 {
     background-image: url(../img/vk.svg);
     background-size: 32px 32px;
 }
