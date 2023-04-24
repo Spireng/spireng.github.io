@@ -5,7 +5,7 @@ html {
 
 body {
     margin: 0;
-    margin: 0 50px;
+    margin: 0 32px;
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     line-height: 1.6;
@@ -247,8 +247,8 @@ p {
     width: 3rem;
     height: 3rem;
     position: fixed;
-    right: 30px;
-    bottom: 35px;
+    right: 10px;
+    bottom: 26px;
     border-radius: 50%;
     transform: rotate(-90deg);
     background-color: #ed0132;
