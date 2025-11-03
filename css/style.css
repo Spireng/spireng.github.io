@@ -148,6 +148,7 @@ p {
 }
 
 .title span,
+.text span,
 .text a {
     color: #ed0132;
 }
